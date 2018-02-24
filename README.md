@@ -1,2 +1,2 @@
 # EngPeterShaker.github.io
-<a href="http://petershaker.tk/">Peter Shaker</a>
+<a href="EngPeterShaker.github.io">Peter Shaker</a>
